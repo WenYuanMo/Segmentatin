@@ -6,6 +6,7 @@ The main idea of division
 4. Get the edge of the object
 5. Use morphological filtering and screening.
 6. The pictures in the software can be zoomed out and dragged.
+7. The parameters can be saved to the configuration file
    
 一个简单的分割软件,基于qt+opencv开发里面主要的分割思想
 
@@ -15,6 +16,7 @@ The main idea of division
 4. 得到物体边缘
 5. 使用形态学过滤，筛选。
 6. 软件中图片可以放大缩小，拖拉。
+7. 参数可以保存到配置文件里面
 ![分割主界面](https://github.com/WenYuanMo/Segmentatin/assets/43527146/0bf793c9-2881-41cd-a8e4-3fc3beff2568)
 ![分析操作](https://github.com/WenYuanMo/Segmentatin/assets/43527146/90bee45b-12e5-42a7-b5a6-dd76d0ed22ab)
 ![显示操作](https://github.com/WenYuanMo/Segmentatin/assets/43527146/996f866e-fc8f-4f8c-aa6d-1d73fdf93669)
