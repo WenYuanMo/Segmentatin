@@ -1,3 +1,10 @@
+A simple segmentation software, based on qt+opencv development
+The main idea of division
+1. Intercept the roi to be processed first
+2. Smooth the mean of different parameters
+3. Subtract two smooth pictures
+4. Get the edge of the object
+5. Use morphological filtering and screening.
 一个简单的分割软件,基于qt+opencv开发
 里面主要的分割思想
 1.先截取要处理的roi
