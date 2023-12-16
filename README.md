@@ -18,3 +18,9 @@ The main idea of division
 ![显示操作](https://github.com/WenYuanMo/Segmentatin/assets/43527146/996f866e-fc8f-4f8c-aa6d-1d73fdf93669)
 ![处理结果](https://github.com/WenYuanMo/Segmentatin/assets/43527146/3172a1be-c049-4ef5-a1df-b38c40fdb2c7)
 ![处理结果2](https://github.com/WenYuanMo/Segmentatin/assets/43527146/24dd0399-c19c-43ee-aaf2-30b2e8385e34)
+
+Those who need to run the package or have questions to consult can scan the code and add the author to wechat
+
+需要运行包或者有问题需要咨询的可以扫码加作者微信
+
+![微信图片_20231216161836](https://github.com/WenYuanMo/Segmentatin/assets/43527146/d841ecd8-4e7f-4fc8-91d7-c767db1fe3ba)
